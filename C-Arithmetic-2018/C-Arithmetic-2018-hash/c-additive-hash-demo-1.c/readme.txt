@@ -1,0 +1,12 @@
+0          C                 6
+1          C++               1
+2          Java             18
+3          C#               11
+4          Python           28
+5          Go               29
+6          Scala            24
+7          vb.net            6
+8          JavaScript        2
+9          PHP              18
+10         Perl              4
+11         Ruby             19
